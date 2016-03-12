@@ -12,3 +12,4 @@
 8. Start of release 1.0
 9. Add commit to release 1.0
 10. Add one commit in feature/nextrelease
+11. Add one more commit in feature/nextrelease2
