@@ -11,3 +11,4 @@
 7. Add last commit before release 1
 8. Start of release 1.0
 9. Add commit to release 1.0
+10. Add one commit in feature/nextrelease
