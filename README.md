@@ -9,3 +9,4 @@
 5. Add new feature/nextrelease branch
 6. Add new commit in feature/nextrelease branch
 7. Add last commit before release 1
+8. Start of release 1.0
