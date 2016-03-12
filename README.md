@@ -12,3 +12,4 @@
 8. Start of release 1.0
 9. Add commit to release 1.0
 10. Only bugfixes!
+11. One last bugfix
