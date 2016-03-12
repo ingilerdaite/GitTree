@@ -6,6 +6,10 @@
 4. Add one more commit
 5. Add new commit in develop branch after feture/release branch was created
 
+5. Add new branch feature/release
+6. Add commit to feature/rlease branch after hotfixes merge to master
+7. Add commit in feature/release branch 
+8. Add last commit in feature/release branch
 5. Add new feature/nextrelease branch
 6. Add new commit in feature/nextrelease branch
 7. Add last commit before release 1
