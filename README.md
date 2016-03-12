@@ -4,3 +4,4 @@
 3. Add new commit
 4. Add one more commit
 5. Add new feature/nextrelease branch
+6. Add new commit in feature/nextrelease branch
