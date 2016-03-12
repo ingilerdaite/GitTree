@@ -11,5 +11,8 @@
 7. Add last commit before release 1
 8. Start of release 1.0
 9. Add commit to release 1.0
+10. Add one commit in feature/nextrelease
+11. Add one more commit in feature/nextrelease2
+
 10. Only bugfixes!
 11. One last bugfix
