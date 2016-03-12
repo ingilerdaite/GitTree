@@ -4,3 +4,4 @@
 3. Add new commit
 4. Add one more commit
 5. Add new branch feature/release
+6. Add commit to feature/rlease branch after hotfixes merge to master
